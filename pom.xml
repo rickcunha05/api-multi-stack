@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.treinaweb</groupId>
-	<artifactId>adore-um-pet</artifactId>
+	<artifactId>adote-um-pet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>adore-um-pet</name>
+	<name>adote-um-pet</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
